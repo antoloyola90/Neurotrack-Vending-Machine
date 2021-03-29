@@ -7,7 +7,7 @@ Hi there, this was a fun challenge & I hope I did justice and gave you a worthy 
 
 1) On Mac. Download Zip. Extract. 
 2) Open Terminal.
-3) Change directory to Neurotrack_Challenge ( cd ~/Downloads/Neurotrack_Challenge )
+3) Change directory to Neurotrack_Challenge ( cd ~/Downloads/Neurotrack_Challenge/VendingMachine )
 4) Run './setup' - This will setup your 'vanilla' macOS and get it ready to run the python file.
 5) Run './runner' - This executes the program and display the output in the console
 
